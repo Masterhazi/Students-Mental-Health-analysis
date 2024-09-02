@@ -1,7 +1,3 @@
-Here’s the revised README file incorporating MySQL and Plotly:
-
----
-
 # University Student Mental Health Analysis
 
 ## Project Overview
